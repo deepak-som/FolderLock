@@ -1,0 +1,17 @@
+Info: Default Pasword is "password".
+
+Step 1: Add the path where you want to create locker in folder_path variable.
+
+Step 2: Run the Script and Enter the Password.
+
+		----A folder named "Locker" will appear---- 
+
+Step 3: Paste the files into it and run the script again.
+
+		----"Viola!" your foler is locked----
+
+Step 4: To unlock it run the script again.
+
+The deafult setting for hidden is set, if you don't see the folder in library, check hidden item box under view tab.
+
+Note: It takes running script and password for both actions(lock/unlock)
